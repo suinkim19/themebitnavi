@@ -2,23 +2,23 @@
 
 ---
 
-ThemeGPT.py : ThemeGPT를 통한 테마 추출, 테마명 통합, 테마명 요약에 대한 함수 파일입니다. \\
+ThemeGPT.py : ThemeGPT를 통한 테마 추출, 테마명 통합, 테마명 요약에 대한 함수 파일입니다. \
 
-theme_index.py : 테마지수 계산에 사용되는 함수 파일입니다. \\
+theme_index.py : 테마지수 계산에 사용되는 함수 파일입니다. \
 
-theme_assess.py : ThemeGPT 성능 평가에 사용된 함수 파일입니다. \\
+theme_assess.py : ThemeGPT 성능 평가에 사용된 함수 파일입니다. \
 
-network_function.py : 테마 네트워크 구축 및 시각화에 사용된 함수 파일입니다. \\
+network_function.py : 테마 네트워크 구축 및 시각화에 사용된 함수 파일입니다. \
 
-clova_summary.py : CLOVA summary API 사용에 사용된 함수 파일입니다. \\
+clova_summary.py : CLOVA summary API 사용에 사용된 함수 파일입니다. \
 
-article_processing.py : 뉴스 데이터의 전처리에 사용된 함수 파일입니다. \\
+article_processing.py : 뉴스 데이터의 전처리에 사용된 함수 파일입니다. \
 
-ThemeGPT.ipynb : 테마 추출, 테마명 통합, 테마명 요약 등 GPT API를 사용하는 모든 모델에 대한 예시입니다. \\
+ThemeGPT.ipynb : 테마 추출, 테마명 통합, 테마명 요약 등 GPT API를 사용하는 모든 모델에 대한 예시입니다. \
 
-theme_stock_and_index.ipynb : GPT가 추출한 각 테마에 속한 종목들을 선정하고, 테마지수를 계산하는 예시입니다. \\
+theme_stock_and_index.ipynb : GPT가 추출한 각 테마에 속한 종목들을 선정하고, 테마지수를 계산하는 예시입니다. \
 
-theme_network.ipynb : 테마 네트워크를 구축하고 시각화하는 코드의 예시입니다. \\
+theme_network.ipynb : 테마 네트워크를 구축하고 시각화하는 코드의 예시입니다. \
 
 ---
 
