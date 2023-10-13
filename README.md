@@ -22,6 +22,10 @@ theme_network.ipynb : 테마 네트워크를 구축하고 시각화하는 코드
 
 ---
 
+### 테마 네트워크 시각화 예시
+![테마빛나비1](https://github.com/suinkim19/themebitnavi/assets/103398227/c44571ed-c2f9-4cc1-a2c5-5c2e78e51275)
+![테마빛나비2](https://github.com/suinkim19/themebitnavi/assets/103398227/3a29e908-510d-4823-8f85-9380fd63c15c)
+
 ### API 발급 리스트
 
 ### DART Open API 키 발급하기
